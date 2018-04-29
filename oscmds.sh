@@ -16,3 +16,4 @@ echo ""
 echo ""
 cd ..
 omxplayer DBSE.mp3
+python3 SMS.py
