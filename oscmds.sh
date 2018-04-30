@@ -18,3 +18,5 @@ echo ""
 cd ..
 omxplayer DBSE.mp3
 python3 SMS.py
+#take a short video and save to the photos folder
+raspivid -o $now.h264 -t 10000
